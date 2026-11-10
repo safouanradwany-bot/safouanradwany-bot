@@ -1,16 +1,27 @@
-## Hi there 👋
+class YoussefErRadouany:
+    def __init__(self):
+        self.name = "Youssef Er-Radouany"
+        self.field = "Networks & Cybersecurity"
+        self.specialization = "Cloud Computing"
 
-<!--
-**safouanradwany-bot/safouanradwany-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        self.skills = [
+            "Python",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Linux",
+            "Docker",
+            "Networking"
+        ]
 
-Here are some ideas to get you started:
+        self.interests = [
+            "Cybersecurity",
+            "Cloud Computing",
+            "Artificial Intelligence"
+        ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def introduce(self):
+        return "Welcome to my GitHub profile!"
+
+me = YoussefErRadouany()
+print(me.introduce())
