@@ -1,119 +1,74 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:8A2BE2&height=200&section=header&text=Youssef%20Er-Radouany&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Networks%20%7C%20Cybersecurity%20%7C%20Cloud%20Computing&descAlignY=58&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=YOUSSEF%20ER-RADOUANY&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Cloud+Computing+Student;Python+%26+Web+Developer;Always+Learning+New+Technologies"/>
+# 👋 Hi, I'm Youssef!
+
+### 💻 Networks | Cybersecurity | Cloud Computing
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Cybersecurity+Enthusiast;Cloud+Computing+Student;Python+%26+Web+Developer;Always+Learning+New+Technologies" />
+</p>
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-Hello! I'm **Youssef Er-Radouany**, a student passionate about Networks, Cybersecurity and Cloud Computing.
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Youssef Er-Radouany"
+        self.role = "Networks & Cybersecurity Student"
+        self.specialization = "Cloud Computing"
+        self.languages = ["Python", "HTML", "CSS", "JavaScript"]
+        self.tools = ["Linux", "Docker", "Git", "GitHub"]
+        self.interests = [
+            "Cybersecurity",
+            "Networking",
+            "Cloud Computing",
+            "Artificial Intelligence"
+        ]
 
-- 🎓 Networks, Cybersecurity & Cloud Computing Student.
-- 🔐 Interested in Cybersecurity and Network Administration.
-- ☁️ Exploring Cloud Computing and Infrastructure.
-- 💻 Learning Python and Web Development.
-- 🚀 Always motivated to learn new technologies.
+    def motto(self):
+        return "Learn, Build, Improve!"
 
----
+me = Developer()
+print(me.motto())
+```
 
 ## 🛠️ Tech Stack
 
 ### Programming Languages
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp"/>
 </p>
 
 ### Tools & Technologies
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode"/>
 </p>
 
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
+## 🚀 My Projects
 
 ### 🏛️ Kelaa Municipality Portal
-
-A web platform designed to provide municipal information and digital services.
-
-**Technologies:**
-- HTML
-- CSS
-- JavaScript
-
-[🔗 View Project](https://github.com/safouanradwany-bot?tab=repositories)
-
-</td>
-<td width="50%">
+Web development project focused on municipal digital services.
 
 ### 🏥 Secure Medical Wireless Sensor Network
-
-An academic project focused on secure communication in medical wireless sensor networks.
-
-**Topics:**
-- Wireless Networks
-- Network Security
-- IoT
-
-[🔗 View Project](https://github.com/safouanradwany-bot?tab=repositories)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
+A project focused on secure wireless communication in medical sensor networks.
 
 ### 🐳 Docker Application
-
-A practical project exploring containerization and application deployment.
-
-**Technologies:**
-- Docker
-- Python
-- Flask
-- Redis
-- Linux
-
-[🔗 View Project](https://github.com/safouanradwany-bot?tab=repositories)
-
-</td>
-<td width="50%">
-
-### 💻 Python Projects
-
-Programming exercises and projects developed while learning Python.
-
-**Technologies:**
-- Python
-- Object-Oriented Programming
-
-[🔗 View Project](https://github.com/safouanradwany-bot?tab=repositories)
-
-</td>
-</tr>
-</table>
-
----
+Learning containerization, Docker images, containers and networks.
 
 ## 📚 Currently Learning
 
 - 🔐 Cybersecurity & Network Security
 - ☁️ Cloud Computing
 - 🐧 Linux Administration
-- 🐳 Docker & Containers
+- 🐳 Docker & Containerization
 - 🌐 Web Development
-
----
 
 ## 📊 GitHub Statistics
 
@@ -127,14 +82,12 @@ Programming exercises and projects developed while learning Python.
 
 </div>
 
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/safouanradwany-bot">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
@@ -143,8 +96,8 @@ Programming exercises and projects developed while learning Python.
 
 <div align="center">
 
-### 💜 "Learn Today, Build Tomorrow."
+### 💜 "Learn today, lead tomorrow."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:8A2BE2&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
